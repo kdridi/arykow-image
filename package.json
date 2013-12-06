@@ -28,6 +28,10 @@
   "scripts": {
     "test": "grunt nodeunit"
   },
+  "dependencies": {
+    "arykow-mime": "0.1.2",
+    "q": "*"
+  },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.4",
     "grunt-contrib-nodeunit": "~0.2.0",
