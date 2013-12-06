@@ -1,7 +1,7 @@
 {
   "name": "arykow-image",
   "description": "Arykow's Image library",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/kdridi/arykow-image",
   "author": {
     "name": "Karim DRIDI",
@@ -29,7 +29,7 @@
     "test": "grunt nodeunit"
   },
   "dependencies": {
-    "arykow-mime": "0.1.2",
+    "arykow-mime": "0.1.3",
     "q": "*"
   },
   "devDependencies": {
